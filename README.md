@@ -1,6 +1,6 @@
 # styles-conference
 
-This website was made to practice semantic HTML and CSS. Some topics of interest here include iframe, grid, and building tables.
+This website was made to practice semantic HTML and CSS. Some topics of interest here include implementing iframe, grid, and building tables.
 
 There will be a link soon but for now you can view the image below 👇 
 
