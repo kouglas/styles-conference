@@ -2,7 +2,8 @@
 
 This website was made to practice semantic HTML and CSS. Some topics of interest here include implementing iframe, grid, and building tables.
 
-Here is the live # [version](https://cheery-pika-deb7a9.netlify.app/index.html)
+Here is the live 
+# [version](https://cheery-pika-deb7a9.netlify.app/index.html)
 OR
 
 you can view the image below 👇 
